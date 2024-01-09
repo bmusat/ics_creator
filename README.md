@@ -1,5 +1,7 @@
 # ics_creator
 
+Simple python script to create an `ics` file from either a `csv` file or from an HTML table
+
 ## Background
 
   - _...in progress_
