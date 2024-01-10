@@ -16,3 +16,5 @@ Simple python script to create an `ics` file from either a `csv` file or from an
 ## Clean-up and Test
 
   - Do a `rm -rf .direnv/` and `rm *.ics` to clean up generated files and do a complete clean of files in the directory
+
+## Notes
